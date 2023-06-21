@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Filip-G10
+- Hi, I'm Filip
 - My interests consist of listening to audiobooks and podcasts, fitness, doing a bit of reading, and now coding.
 - What I am currently learning is HTML and CSS on The Odin Project.
 - I can be reached at filipsuazo91@gmail.com
